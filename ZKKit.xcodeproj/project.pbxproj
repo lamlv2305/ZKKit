@@ -10,30 +10,30 @@
 		2E66242C1FBAD1F200117916 /* ZKKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E6624221FBAD1F200117916 /* ZKKit.framework */; };
 		2E6624311FBAD1F200117916 /* ZKKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E6624301FBAD1F200117916 /* ZKKitTests.swift */; };
 		2E6624331FBAD1F200117916 /* ZKKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E6624251FBAD1F200117916 /* ZKKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2EF2C3E91FBAEDB80080AA09 /* ZKNodeControllerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3CE1FBAEDB80080AA09 /* ZKNodeControllerProtocol.swift */; };
-		2EF2C3EA1FBAEDB80080AA09 /* ZKNodeModelProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3CF1FBAEDB80080AA09 /* ZKNodeModelProtocol.swift */; };
-		2EF2C3EB1FBAEDB80080AA09 /* ZKDisplayNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D01FBAEDB80080AA09 /* ZKDisplayNode.swift */; };
-		2EF2C3EC1FBAEDB80080AA09 /* ZKViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D11FBAEDB80080AA09 /* ZKViewController.swift */; };
-		2EF2C3ED1FBAEDB80080AA09 /* ZKNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D31FBAEDB80080AA09 /* ZKNavigationBar.swift */; };
-		2EF2C3EE1FBAEDB80080AA09 /* ZKNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D41FBAEDB80080AA09 /* ZKNavigationController.swift */; };
-		2EF2C3EF1FBAEDB80080AA09 /* ZKNavigationController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D51FBAEDB80080AA09 /* ZKNavigationController.xib */; };
-		2EF2C3F01FBAEDB80080AA09 /* Ext+ASLayoutSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D71FBAEDB80080AA09 /* Ext+ASLayoutSpec.swift */; };
-		2EF2C3F11FBAEDB80080AA09 /* Ext+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D81FBAEDB80080AA09 /* Ext+Color.swift */; };
-		2EF2C3F21FBAEDB80080AA09 /* Ext+Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3D91FBAEDB80080AA09 /* Ext+Date.swift */; };
-		2EF2C3F31FBAEDB80080AA09 /* Ext+KeyboardAvoidable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3DA1FBAEDB80080AA09 /* Ext+KeyboardAvoidable.swift */; };
-		2EF2C3F41FBAEDB80080AA09 /* Ext+NSMutableAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3DB1FBAEDB80080AA09 /* Ext+NSMutableAttributedString.swift */; };
-		2EF2C3F51FBAEDB80080AA09 /* Ext+Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3DC1FBAEDB80080AA09 /* Ext+Sequence.swift */; };
-		2EF2C3F61FBAEDB80080AA09 /* Ext+Storyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3DD1FBAEDB80080AA09 /* Ext+Storyboard.swift */; };
-		2EF2C3F71FBAEDB80080AA09 /* Ext+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3DE1FBAEDB80080AA09 /* Ext+String.swift */; };
-		2EF2C3F81FBAEDB80080AA09 /* Ext+Then.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3DF1FBAEDB80080AA09 /* Ext+Then.swift */; };
-		2EF2C3F91FBAEDB80080AA09 /* Ext+UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E01FBAEDB80080AA09 /* Ext+UIFont.swift */; };
-		2EF2C3FA1FBAEDB80080AA09 /* Ext+UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E11FBAEDB80080AA09 /* Ext+UIImageView.swift */; };
-		2EF2C3FB1FBAEDB80080AA09 /* Ext+UITapGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E21FBAEDB80080AA09 /* Ext+UITapGestureRecognizer.swift */; };
-		2EF2C3FC1FBAEDB80080AA09 /* Ext+UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E31FBAEDB80080AA09 /* Ext+UITextField.swift */; };
-		2EF2C3FD1FBAEDB80080AA09 /* Ext+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E41FBAEDB80080AA09 /* Ext+UIView.swift */; };
-		2EF2C3FE1FBAEDB80080AA09 /* Ext+ASButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E61FBAEDB80080AA09 /* Ext+ASButtonNode.swift */; };
-		2EF2C3FF1FBAEDB80080AA09 /* ReactiveTexture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E71FBAEDB80080AA09 /* ReactiveTexture.swift */; };
-		2EF2C4001FBAEDB80080AA09 /* RxTextureControlTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2C3E81FBAEDB80080AA09 /* RxTextureControlTarget.swift */; };
+		2E76751B1FBAF676000A2B72 /* ZKNodeControllerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675001FBAF676000A2B72 /* ZKNodeControllerProtocol.swift */; };
+		2E76751C1FBAF677000A2B72 /* ZKNodeModelProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675011FBAF676000A2B72 /* ZKNodeModelProtocol.swift */; };
+		2E76751D1FBAF677000A2B72 /* ZKDisplayNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675021FBAF676000A2B72 /* ZKDisplayNode.swift */; };
+		2E76751E1FBAF677000A2B72 /* ZKViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675031FBAF676000A2B72 /* ZKViewController.swift */; };
+		2E76751F1FBAF677000A2B72 /* ZKNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675051FBAF676000A2B72 /* ZKNavigationBar.swift */; };
+		2E7675201FBAF677000A2B72 /* ZKNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675061FBAF676000A2B72 /* ZKNavigationController.swift */; };
+		2E7675211FBAF677000A2B72 /* ZKNavigationController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7675071FBAF676000A2B72 /* ZKNavigationController.xib */; };
+		2E7675221FBAF677000A2B72 /* Ext+ASLayoutSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675091FBAF676000A2B72 /* Ext+ASLayoutSpec.swift */; };
+		2E7675231FBAF677000A2B72 /* Ext+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E76750A1FBAF676000A2B72 /* Ext+Color.swift */; };
+		2E7675241FBAF677000A2B72 /* Ext+Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E76750B1FBAF676000A2B72 /* Ext+Date.swift */; };
+		2E7675251FBAF677000A2B72 /* Ext+KeyboardAvoidable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E76750C1FBAF676000A2B72 /* Ext+KeyboardAvoidable.swift */; };
+		2E7675261FBAF677000A2B72 /* Ext+NSMutableAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E76750D1FBAF676000A2B72 /* Ext+NSMutableAttributedString.swift */; };
+		2E7675271FBAF677000A2B72 /* Ext+Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E76750E1FBAF676000A2B72 /* Ext+Sequence.swift */; };
+		2E7675281FBAF677000A2B72 /* Ext+Storyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E76750F1FBAF676000A2B72 /* Ext+Storyboard.swift */; };
+		2E7675291FBAF677000A2B72 /* Ext+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675101FBAF676000A2B72 /* Ext+String.swift */; };
+		2E76752A1FBAF677000A2B72 /* Ext+Then.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675111FBAF676000A2B72 /* Ext+Then.swift */; };
+		2E76752B1FBAF677000A2B72 /* Ext+UIFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675121FBAF676000A2B72 /* Ext+UIFont.swift */; };
+		2E76752C1FBAF677000A2B72 /* Ext+UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675131FBAF676000A2B72 /* Ext+UIImageView.swift */; };
+		2E76752D1FBAF677000A2B72 /* Ext+UITapGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675141FBAF676000A2B72 /* Ext+UITapGestureRecognizer.swift */; };
+		2E76752E1FBAF677000A2B72 /* Ext+UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675151FBAF676000A2B72 /* Ext+UITextField.swift */; };
+		2E76752F1FBAF677000A2B72 /* Ext+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675161FBAF676000A2B72 /* Ext+UIView.swift */; };
+		2E7675301FBAF677000A2B72 /* Ext+ASButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675181FBAF676000A2B72 /* Ext+ASButtonNode.swift */; };
+		2E7675311FBAF677000A2B72 /* ReactiveTexture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E7675191FBAF676000A2B72 /* ReactiveTexture.swift */; };
+		2E7675321FBAF677000A2B72 /* RxTextureControlTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E76751A1FBAF676000A2B72 /* RxTextureControlTarget.swift */; };
 		B98B0CCD02C1CA62D68E9314 /* Pods_ZKKitTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A72AB30A12922281CE891CE9 /* Pods_ZKKitTests.framework */; };
 		C6E6A57FD28F2F25541F29C4 /* Pods_ZKKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FDB61FBB0CCCB6092362864 /* Pods_ZKKit.framework */; };
 /* End PBXBuildFile section */
@@ -56,30 +56,30 @@
 		2E66242B1FBAD1F200117916 /* ZKKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZKKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E6624301FBAD1F200117916 /* ZKKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZKKitTests.swift; sourceTree = "<group>"; };
 		2E6624321FBAD1F200117916 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2EF2C3CE1FBAEDB80080AA09 /* ZKNodeControllerProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNodeControllerProtocol.swift; sourceTree = "<group>"; };
-		2EF2C3CF1FBAEDB80080AA09 /* ZKNodeModelProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNodeModelProtocol.swift; sourceTree = "<group>"; };
-		2EF2C3D01FBAEDB80080AA09 /* ZKDisplayNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKDisplayNode.swift; sourceTree = "<group>"; };
-		2EF2C3D11FBAEDB80080AA09 /* ZKViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKViewController.swift; sourceTree = "<group>"; };
-		2EF2C3D31FBAEDB80080AA09 /* ZKNavigationBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNavigationBar.swift; sourceTree = "<group>"; };
-		2EF2C3D41FBAEDB80080AA09 /* ZKNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNavigationController.swift; sourceTree = "<group>"; };
-		2EF2C3D51FBAEDB80080AA09 /* ZKNavigationController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZKNavigationController.xib; sourceTree = "<group>"; };
-		2EF2C3D71FBAEDB80080AA09 /* Ext+ASLayoutSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+ASLayoutSpec.swift"; sourceTree = "<group>"; };
-		2EF2C3D81FBAEDB80080AA09 /* Ext+Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Color.swift"; sourceTree = "<group>"; };
-		2EF2C3D91FBAEDB80080AA09 /* Ext+Date.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Date.swift"; sourceTree = "<group>"; };
-		2EF2C3DA1FBAEDB80080AA09 /* Ext+KeyboardAvoidable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+KeyboardAvoidable.swift"; sourceTree = "<group>"; };
-		2EF2C3DB1FBAEDB80080AA09 /* Ext+NSMutableAttributedString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+NSMutableAttributedString.swift"; sourceTree = "<group>"; };
-		2EF2C3DC1FBAEDB80080AA09 /* Ext+Sequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Sequence.swift"; sourceTree = "<group>"; };
-		2EF2C3DD1FBAEDB80080AA09 /* Ext+Storyboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Storyboard.swift"; sourceTree = "<group>"; };
-		2EF2C3DE1FBAEDB80080AA09 /* Ext+String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+String.swift"; sourceTree = "<group>"; };
-		2EF2C3DF1FBAEDB80080AA09 /* Ext+Then.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Then.swift"; sourceTree = "<group>"; };
-		2EF2C3E01FBAEDB80080AA09 /* Ext+UIFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UIFont.swift"; sourceTree = "<group>"; };
-		2EF2C3E11FBAEDB80080AA09 /* Ext+UIImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UIImageView.swift"; sourceTree = "<group>"; };
-		2EF2C3E21FBAEDB80080AA09 /* Ext+UITapGestureRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UITapGestureRecognizer.swift"; sourceTree = "<group>"; };
-		2EF2C3E31FBAEDB80080AA09 /* Ext+UITextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UITextField.swift"; sourceTree = "<group>"; };
-		2EF2C3E41FBAEDB80080AA09 /* Ext+UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UIView.swift"; sourceTree = "<group>"; };
-		2EF2C3E61FBAEDB80080AA09 /* Ext+ASButtonNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+ASButtonNode.swift"; sourceTree = "<group>"; };
-		2EF2C3E71FBAEDB80080AA09 /* ReactiveTexture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReactiveTexture.swift; sourceTree = "<group>"; };
-		2EF2C3E81FBAEDB80080AA09 /* RxTextureControlTarget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RxTextureControlTarget.swift; sourceTree = "<group>"; };
+		2E7675001FBAF676000A2B72 /* ZKNodeControllerProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNodeControllerProtocol.swift; sourceTree = "<group>"; };
+		2E7675011FBAF676000A2B72 /* ZKNodeModelProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNodeModelProtocol.swift; sourceTree = "<group>"; };
+		2E7675021FBAF676000A2B72 /* ZKDisplayNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKDisplayNode.swift; sourceTree = "<group>"; };
+		2E7675031FBAF676000A2B72 /* ZKViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKViewController.swift; sourceTree = "<group>"; };
+		2E7675051FBAF676000A2B72 /* ZKNavigationBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNavigationBar.swift; sourceTree = "<group>"; };
+		2E7675061FBAF676000A2B72 /* ZKNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZKNavigationController.swift; sourceTree = "<group>"; };
+		2E7675071FBAF676000A2B72 /* ZKNavigationController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ZKNavigationController.xib; sourceTree = "<group>"; };
+		2E7675091FBAF676000A2B72 /* Ext+ASLayoutSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+ASLayoutSpec.swift"; sourceTree = "<group>"; };
+		2E76750A1FBAF676000A2B72 /* Ext+Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Color.swift"; sourceTree = "<group>"; };
+		2E76750B1FBAF676000A2B72 /* Ext+Date.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Date.swift"; sourceTree = "<group>"; };
+		2E76750C1FBAF676000A2B72 /* Ext+KeyboardAvoidable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+KeyboardAvoidable.swift"; sourceTree = "<group>"; };
+		2E76750D1FBAF676000A2B72 /* Ext+NSMutableAttributedString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+NSMutableAttributedString.swift"; sourceTree = "<group>"; };
+		2E76750E1FBAF676000A2B72 /* Ext+Sequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Sequence.swift"; sourceTree = "<group>"; };
+		2E76750F1FBAF676000A2B72 /* Ext+Storyboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Storyboard.swift"; sourceTree = "<group>"; };
+		2E7675101FBAF676000A2B72 /* Ext+String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+String.swift"; sourceTree = "<group>"; };
+		2E7675111FBAF676000A2B72 /* Ext+Then.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+Then.swift"; sourceTree = "<group>"; };
+		2E7675121FBAF676000A2B72 /* Ext+UIFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UIFont.swift"; sourceTree = "<group>"; };
+		2E7675131FBAF676000A2B72 /* Ext+UIImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UIImageView.swift"; sourceTree = "<group>"; };
+		2E7675141FBAF676000A2B72 /* Ext+UITapGestureRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UITapGestureRecognizer.swift"; sourceTree = "<group>"; };
+		2E7675151FBAF676000A2B72 /* Ext+UITextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UITextField.swift"; sourceTree = "<group>"; };
+		2E7675161FBAF676000A2B72 /* Ext+UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+UIView.swift"; sourceTree = "<group>"; };
+		2E7675181FBAF676000A2B72 /* Ext+ASButtonNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Ext+ASButtonNode.swift"; sourceTree = "<group>"; };
+		2E7675191FBAF676000A2B72 /* ReactiveTexture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReactiveTexture.swift; sourceTree = "<group>"; };
+		2E76751A1FBAF676000A2B72 /* RxTextureControlTarget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RxTextureControlTarget.swift; sourceTree = "<group>"; };
 		5FDB61FBB0CCCB6092362864 /* Pods_ZKKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZKKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8318A3D05F8997C8748BA576 /* Pods-ZKKitTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKKitTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZKKitTests/Pods-ZKKitTests.release.xcconfig"; sourceTree = "<group>"; };
 		9CED1B50530506AC7F1E8B80 /* Pods-ZKKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKKit.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZKKit/Pods-ZKKit.debug.xcconfig"; sourceTree = "<group>"; };
@@ -140,8 +140,8 @@
 		2E6624241FBAD1F200117916 /* ZKKit */ = {
 			isa = PBXGroup;
 			children = (
-				2EF2C3D61FBAEDB80080AA09 /* Extensions */,
-				2EF2C3CB1FBAEDB80080AA09 /* UI */,
+				2E7675081FBAF676000A2B72 /* Extensions */,
+				2E7674FD1FBAF676000A2B72 /* UI */,
 				2E6624251FBAD1F200117916 /* ZKKit.h */,
 				2E6624261FBAD1F200117916 /* Info.plist */,
 			);
@@ -157,74 +157,72 @@
 			path = ZKKitTests;
 			sourceTree = "<group>";
 		};
-		2EF2C3CB1FBAEDB80080AA09 /* UI */ = {
+		2E7674FD1FBAF676000A2B72 /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				2EF2C3CC1FBAEDB80080AA09 /* AsyncDisplay Usage */,
-				2EF2C3D21FBAEDB80080AA09 /* Navigation */,
+				2E7674FE1FBAF676000A2B72 /* AsyncDisplay Usage */,
+				2E7675041FBAF676000A2B72 /* Navigation */,
 			);
-			name = UI;
-			path = "../../ZKKit Sources/ZKKit/UI";
+			path = UI;
 			sourceTree = "<group>";
 		};
-		2EF2C3CC1FBAEDB80080AA09 /* AsyncDisplay Usage */ = {
+		2E7674FE1FBAF676000A2B72 /* AsyncDisplay Usage */ = {
 			isa = PBXGroup;
 			children = (
-				2EF2C3CD1FBAEDB80080AA09 /* Protocol */,
-				2EF2C3D01FBAEDB80080AA09 /* ZKDisplayNode.swift */,
-				2EF2C3D11FBAEDB80080AA09 /* ZKViewController.swift */,
+				2E7674FF1FBAF676000A2B72 /* Protocol */,
+				2E7675021FBAF676000A2B72 /* ZKDisplayNode.swift */,
+				2E7675031FBAF676000A2B72 /* ZKViewController.swift */,
 			);
 			path = "AsyncDisplay Usage";
 			sourceTree = "<group>";
 		};
-		2EF2C3CD1FBAEDB80080AA09 /* Protocol */ = {
+		2E7674FF1FBAF676000A2B72 /* Protocol */ = {
 			isa = PBXGroup;
 			children = (
-				2EF2C3CE1FBAEDB80080AA09 /* ZKNodeControllerProtocol.swift */,
-				2EF2C3CF1FBAEDB80080AA09 /* ZKNodeModelProtocol.swift */,
+				2E7675001FBAF676000A2B72 /* ZKNodeControllerProtocol.swift */,
+				2E7675011FBAF676000A2B72 /* ZKNodeModelProtocol.swift */,
 			);
 			path = Protocol;
 			sourceTree = "<group>";
 		};
-		2EF2C3D21FBAEDB80080AA09 /* Navigation */ = {
+		2E7675041FBAF676000A2B72 /* Navigation */ = {
 			isa = PBXGroup;
 			children = (
-				2EF2C3D31FBAEDB80080AA09 /* ZKNavigationBar.swift */,
-				2EF2C3D41FBAEDB80080AA09 /* ZKNavigationController.swift */,
-				2EF2C3D51FBAEDB80080AA09 /* ZKNavigationController.xib */,
+				2E7675051FBAF676000A2B72 /* ZKNavigationBar.swift */,
+				2E7675061FBAF676000A2B72 /* ZKNavigationController.swift */,
+				2E7675071FBAF676000A2B72 /* ZKNavigationController.xib */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
 		};
-		2EF2C3D61FBAEDB80080AA09 /* Extensions */ = {
+		2E7675081FBAF676000A2B72 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				2EF2C3D71FBAEDB80080AA09 /* Ext+ASLayoutSpec.swift */,
-				2EF2C3D81FBAEDB80080AA09 /* Ext+Color.swift */,
-				2EF2C3D91FBAEDB80080AA09 /* Ext+Date.swift */,
-				2EF2C3DA1FBAEDB80080AA09 /* Ext+KeyboardAvoidable.swift */,
-				2EF2C3DB1FBAEDB80080AA09 /* Ext+NSMutableAttributedString.swift */,
-				2EF2C3DC1FBAEDB80080AA09 /* Ext+Sequence.swift */,
-				2EF2C3DD1FBAEDB80080AA09 /* Ext+Storyboard.swift */,
-				2EF2C3DE1FBAEDB80080AA09 /* Ext+String.swift */,
-				2EF2C3DF1FBAEDB80080AA09 /* Ext+Then.swift */,
-				2EF2C3E01FBAEDB80080AA09 /* Ext+UIFont.swift */,
-				2EF2C3E11FBAEDB80080AA09 /* Ext+UIImageView.swift */,
-				2EF2C3E21FBAEDB80080AA09 /* Ext+UITapGestureRecognizer.swift */,
-				2EF2C3E31FBAEDB80080AA09 /* Ext+UITextField.swift */,
-				2EF2C3E41FBAEDB80080AA09 /* Ext+UIView.swift */,
-				2EF2C3E51FBAEDB80080AA09 /* RxSwift Extensions */,
+				2E7675091FBAF676000A2B72 /* Ext+ASLayoutSpec.swift */,
+				2E76750A1FBAF676000A2B72 /* Ext+Color.swift */,
+				2E76750B1FBAF676000A2B72 /* Ext+Date.swift */,
+				2E76750C1FBAF676000A2B72 /* Ext+KeyboardAvoidable.swift */,
+				2E76750D1FBAF676000A2B72 /* Ext+NSMutableAttributedString.swift */,
+				2E76750E1FBAF676000A2B72 /* Ext+Sequence.swift */,
+				2E76750F1FBAF676000A2B72 /* Ext+Storyboard.swift */,
+				2E7675101FBAF676000A2B72 /* Ext+String.swift */,
+				2E7675111FBAF676000A2B72 /* Ext+Then.swift */,
+				2E7675121FBAF676000A2B72 /* Ext+UIFont.swift */,
+				2E7675131FBAF676000A2B72 /* Ext+UIImageView.swift */,
+				2E7675141FBAF676000A2B72 /* Ext+UITapGestureRecognizer.swift */,
+				2E7675151FBAF676000A2B72 /* Ext+UITextField.swift */,
+				2E7675161FBAF676000A2B72 /* Ext+UIView.swift */,
+				2E7675171FBAF676000A2B72 /* RxSwift Extensions */,
 			);
-			name = Extensions;
-			path = "../../ZKKit Sources/ZKKit/Extensions";
+			path = Extensions;
 			sourceTree = "<group>";
 		};
-		2EF2C3E51FBAEDB80080AA09 /* RxSwift Extensions */ = {
+		2E7675171FBAF676000A2B72 /* RxSwift Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				2EF2C3E61FBAEDB80080AA09 /* Ext+ASButtonNode.swift */,
-				2EF2C3E71FBAEDB80080AA09 /* ReactiveTexture.swift */,
-				2EF2C3E81FBAEDB80080AA09 /* RxTextureControlTarget.swift */,
+				2E7675181FBAF676000A2B72 /* Ext+ASButtonNode.swift */,
+				2E7675191FBAF676000A2B72 /* ReactiveTexture.swift */,
+				2E76751A1FBAF676000A2B72 /* RxTextureControlTarget.swift */,
 			);
 			path = "RxSwift Extensions";
 			sourceTree = "<group>";
@@ -338,7 +336,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2EF2C3EF1FBAEDB80080AA09 /* ZKNavigationController.xib in Resources */,
+				2E7675211FBAF677000A2B72 /* ZKNavigationController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,29 +451,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2EF2C3FD1FBAEDB80080AA09 /* Ext+UIView.swift in Sources */,
-				2EF2C3EE1FBAEDB80080AA09 /* ZKNavigationController.swift in Sources */,
-				2EF2C3FA1FBAEDB80080AA09 /* Ext+UIImageView.swift in Sources */,
-				2EF2C3F61FBAEDB80080AA09 /* Ext+Storyboard.swift in Sources */,
-				2EF2C3EA1FBAEDB80080AA09 /* ZKNodeModelProtocol.swift in Sources */,
-				2EF2C3EC1FBAEDB80080AA09 /* ZKViewController.swift in Sources */,
-				2EF2C3F41FBAEDB80080AA09 /* Ext+NSMutableAttributedString.swift in Sources */,
-				2EF2C3F21FBAEDB80080AA09 /* Ext+Date.swift in Sources */,
-				2EF2C3E91FBAEDB80080AA09 /* ZKNodeControllerProtocol.swift in Sources */,
-				2EF2C3FE1FBAEDB80080AA09 /* Ext+ASButtonNode.swift in Sources */,
-				2EF2C3F51FBAEDB80080AA09 /* Ext+Sequence.swift in Sources */,
-				2EF2C3F01FBAEDB80080AA09 /* Ext+ASLayoutSpec.swift in Sources */,
-				2EF2C3FB1FBAEDB80080AA09 /* Ext+UITapGestureRecognizer.swift in Sources */,
-				2EF2C3F11FBAEDB80080AA09 /* Ext+Color.swift in Sources */,
-				2EF2C3ED1FBAEDB80080AA09 /* ZKNavigationBar.swift in Sources */,
-				2EF2C3F31FBAEDB80080AA09 /* Ext+KeyboardAvoidable.swift in Sources */,
-				2EF2C3F91FBAEDB80080AA09 /* Ext+UIFont.swift in Sources */,
-				2EF2C4001FBAEDB80080AA09 /* RxTextureControlTarget.swift in Sources */,
-				2EF2C3F71FBAEDB80080AA09 /* Ext+String.swift in Sources */,
-				2EF2C3FF1FBAEDB80080AA09 /* ReactiveTexture.swift in Sources */,
-				2EF2C3EB1FBAEDB80080AA09 /* ZKDisplayNode.swift in Sources */,
-				2EF2C3FC1FBAEDB80080AA09 /* Ext+UITextField.swift in Sources */,
-				2EF2C3F81FBAEDB80080AA09 /* Ext+Then.swift in Sources */,
+				2E76752F1FBAF677000A2B72 /* Ext+UIView.swift in Sources */,
+				2E7675201FBAF677000A2B72 /* ZKNavigationController.swift in Sources */,
+				2E76752C1FBAF677000A2B72 /* Ext+UIImageView.swift in Sources */,
+				2E7675281FBAF677000A2B72 /* Ext+Storyboard.swift in Sources */,
+				2E76751C1FBAF677000A2B72 /* ZKNodeModelProtocol.swift in Sources */,
+				2E76751E1FBAF677000A2B72 /* ZKViewController.swift in Sources */,
+				2E7675261FBAF677000A2B72 /* Ext+NSMutableAttributedString.swift in Sources */,
+				2E7675241FBAF677000A2B72 /* Ext+Date.swift in Sources */,
+				2E76751B1FBAF676000A2B72 /* ZKNodeControllerProtocol.swift in Sources */,
+				2E7675301FBAF677000A2B72 /* Ext+ASButtonNode.swift in Sources */,
+				2E7675271FBAF677000A2B72 /* Ext+Sequence.swift in Sources */,
+				2E7675221FBAF677000A2B72 /* Ext+ASLayoutSpec.swift in Sources */,
+				2E76752D1FBAF677000A2B72 /* Ext+UITapGestureRecognizer.swift in Sources */,
+				2E7675231FBAF677000A2B72 /* Ext+Color.swift in Sources */,
+				2E76751F1FBAF677000A2B72 /* ZKNavigationBar.swift in Sources */,
+				2E7675251FBAF677000A2B72 /* Ext+KeyboardAvoidable.swift in Sources */,
+				2E76752B1FBAF677000A2B72 /* Ext+UIFont.swift in Sources */,
+				2E7675321FBAF677000A2B72 /* RxTextureControlTarget.swift in Sources */,
+				2E7675291FBAF677000A2B72 /* Ext+String.swift in Sources */,
+				2E7675311FBAF677000A2B72 /* ReactiveTexture.swift in Sources */,
+				2E76751D1FBAF677000A2B72 /* ZKDisplayNode.swift in Sources */,
+				2E76752E1FBAF677000A2B72 /* Ext+UITextField.swift in Sources */,
+				2E76752A1FBAF677000A2B72 /* Ext+Then.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
