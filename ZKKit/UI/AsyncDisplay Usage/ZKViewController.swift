@@ -47,6 +47,8 @@ open class ZKViewController: ASViewController<ZKDisplayNode> {
     override open func viewDidLoad() {
         super.viewDidLoad()
 
+        title = ""
+
         handleRx()
     }
 }

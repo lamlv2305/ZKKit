@@ -15,6 +15,7 @@ open class ZKDisplayNode: ASDisplayNode {
     override public init() {
         super.init()
         automaticallyManagesSubnodes = true
+        backgroundColor = UIColor.white
     }
 
     override open func animateLayoutTransition(_ context: ASContextTransitioning) {

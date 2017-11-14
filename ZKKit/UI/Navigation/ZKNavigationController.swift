@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import RxSwift
 
 open class ZKNavigationController: UINavigationController {
     init(root: UIViewController) {
@@ -24,12 +25,11 @@ open class ZKNavigationController: UINavigationController {
 
     override open func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
     }
 
     override open func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        
         // Dispose of any resources that can be recreated.
     }
 }
