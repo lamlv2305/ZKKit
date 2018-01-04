@@ -29,7 +29,10 @@ public enum ViewState: Equatable {
 }
 
 public protocol ZKNodeModelProtocol {
+    associatedtype DataType
+
     var disposeBag: DisposeBag { get }
     var hasNextPage: Variable<Bool> { get }
     var viewState: Variable<ViewState> { get }
+    var data: DataType { get }
 }
